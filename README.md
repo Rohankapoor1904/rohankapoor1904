@@ -57,7 +57,7 @@ Location: India 🇮🇳
 ### 🌟 Featured Projects & Open Source Work
 
 <table>
-  <!-- Row 1: Android Flagship & Rich Text Engine -->
+  <!-- Row 1: Android Flagships (Direct Public APK Downloads) -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🍒 Cherrygram Plus</h3>
@@ -70,9 +70,29 @@ Location: India 🇮🇳
         <li><b>Security & Parity</b>: Complete isolation of dangerous remote triggers, upstream feature parity, and 120Hz frame pacing.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904"><img src="https://img.shields.io/badge/Android_App-18181b?style=for-the-badge&logo=android" /></a>
+        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v10.16.1-f43f5e?style=for-the-badge&logo=android&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases"><img src="https://img.shields.io/badge/Release_Hub-18181b?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎬 ADM Streamer</h3>
+      <p align="center">
+        <b>Advanced Media Streaming & Background Download Manager for Android</b>
+      </p>
+      <ul>
+        <li><b>Embedded Torrent Engine</b>: Local Node.js BitTorrent-to-HTTP server allowing zero-buffer real-time streaming.</li>
+        <li><b>Native VLC Core</b>: Universal codec decoding (MKV, HEVC, DASH, HLS) with multi-audio & subtitle selectors.</li>
+        <li><b>Catalog Discovery</b>: Unified Cinemeta catalog integration with resilient background download manager.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Rohankapoor1904/streamer-releases/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v1.0.0-6366f1?style=for-the-badge&logo=android&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/streamer-releases"><img src="https://img.shields.io/badge/Release_Hub-18181b?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Web Applications & AST Engines -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📝 Telegram Rich Text Engine</h3>
       <p align="center">
@@ -87,9 +107,24 @@ Location: India 🇮🇳
         <a href="https://github.com/Rohankapoor1904"><img src="https://img.shields.io/badge/Web_Engine-0284c7?style=for-the-badge&logo=react" /></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ TeraBox Suite & Dashboard</h3>
+      <p align="center">
+        <b>Cloud Video Streaming & Direct Download Portal</b>
+      </p>
+      <ul>
+        <li><b>Web Streaming & Player</b>: Responsive media streaming portal with direct video playback and file analytics.</li>
+        <li><b>Full Dashboard Interface</b>: Clean interactive UI with authentication pages (<code>dashboard.html</code>, <code>login.html</code>).</li>
+        <li><b>Live Deployment</b>: Hosted on GitHub Pages with continuous deployment.</li>
+      </ul>
+      <p align="center">
+        <a href="https://rohankapoor1904.github.io/terabox/"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/terabox"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
   </tr>
 
-  <!-- Row 2: Browser Extensions & Scrapers -->
+  <!-- Row 3: Browser Extensions & Scrapers -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧩 Website Details Fetcher</h3>
@@ -121,34 +156,12 @@ Location: India 🇮🇳
     </td>
   </tr>
 
-  <!-- Row 3: Web Apps & Live Portals -->
+  <!-- Row 4: Personal Showcase -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ TeraBox Suite & Dashboard</h3>
-      <p align="center">
-        <b>Cloud Video Streaming & Direct Download Portal</b>
-      </p>
-      <ul>
-        <li><b>Web Streaming & Player</b>: Responsive media streaming portal with direct video playback and file analytics.</li>
-        <li><b>Full Dashboard Interface</b>: Clean interactive UI with authentication pages (<code>dashboard.html</code>, <code>login.html</code>).</li>
-        <li><b>Live Deployment</b>: Hosted on GitHub Pages with continuous deployment.</li>
-      </ul>
-      <p align="center">
-        <a href="https://rohankapoor1904.github.io/terabox/"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-        <a href="https://github.com/Rohankapoor1904/terabox"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Personal Developer Portfolio</h3>
-      <p align="center">
-        <b>Personal Portfolio & Work Showcase</b>
-      </p>
-      <ul>
-        <li><b>Modern Responsive Design</b>: Tailored showcase of projects, contact information, and technical capabilities.</li>
-        <li><b>Pure Web Stack</b>: Built with semantic HTML5, modern CSS3 styling, and lightweight JavaScript.</li>
-        <li><b>Live Deployment</b>: Deployed seamlessly via GitHub Pages.</li>
-      </ul>
-      <p align="center">
+    <td colspan="2" align="center">
+      <h3>🌐 Personal Developer Portfolio</h3>
+      <p><b>Personal Portfolio & Modern Web Showcase</b> • Built with HTML5, CSS3, and JavaScript • Hosted on GitHub Pages</p>
+      <p>
         <a href="https://rohankapoor1904.github.io/portfolio/"><img src="https://img.shields.io/badge/Visit_Portfolio-e11d48?style=for-the-badge&logo=safari&logoColor=white" /></a>
         <a href="https://github.com/Rohankapoor1904/portfolio"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github" /></a>
       </p>
