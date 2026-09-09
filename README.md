@@ -70,7 +70,7 @@ Location: India 🇮🇳
         <li><b>Security & Parity</b>: Complete isolation of dangerous remote triggers, upstream feature parity, and 120Hz frame pacing.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v10.16.1-f43f5e?style=for-the-badge&logo=android&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v10.17.0-f43f5e?style=for-the-badge&logo=android&logoColor=white" /></a>
         <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases"><img src="https://img.shields.io/badge/Release_Hub-18181b?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
