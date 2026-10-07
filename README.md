@@ -1,169 +1,176 @@
 <div align="center">
 
-  <!-- Header Dynamic Waving Banner -->
   <a href="https://github.com/Rohankapoor1904">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Hey%20there,%20I'm%20Rohan!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,34&height=220&section=header&text=👋%20Hi,%20I'm%20Rohan%20Kapoor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Rohan Kapoor Banner" width="100%"/>
   </a>
 
-  <!-- Animated Typing SVG covering all domains -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=750&lines=Android+Systems+%26+NDK+Engineer;Full-Stack+Web+%26+Browser+Extension+Developer;Creator+of+Automations%2C+Scrapers+%26+Web+Tools;Lead+Architect+%40+Cherrygram+Plus;Building+High-Performance%2C+Open-Source+Software" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Profile Counters & Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Rohankapoor1904&style=for-the-badge&color=e11d48&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://github.com/Rohankapoor1904?tab=followers"><img src="https://img.shields.io/github/followers/Rohankapoor1904?label=Followers&style=for-the-badge&color=090d16" alt="Followers" /></a>
-    <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-0284c7?style=for-the-badge" alt="Status" />
+    <b>Full-Stack Systems Engineer • Android Client Architect • AI Agent Developer</b>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Rohankapoor1904">
+      <img src="https://img.shields.io/badge/GitHub-Rohankapoor1904-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    <a href="https://t.me/tech_beast69" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@tech__beast69-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:viralzone1904@gmail.com">
+      <img src="https://img.shields.io/badge/Email-viralzone1904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://rohankapoor1904.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+## 🚀 About Me
 
-```yaml
-Name: Rohan Kapoor
-Roles: Full-Stack Developer • Android Systems & NDK Engineer • Tooling Specialist
-Specialties: Android NDK (C++/JNI), Web Automation & Extensions, React / TypeScript Engines
-Core Philosophy: Performance-First, Clean Architecture, 120Hz Smoothness, Zero-Leak Discipline
-Location: India 🇮🇳
-```
-
-- 🚀 **Android & Systems Engineering**: Architecting **Cherrygram Plus** — a high-performance Android Telegram client featuring native C++ JNI frame decoders, MTProto streaming, multi-tier OS memory management (`onTrimMemory`), and 120Hz frame pacing.
-- 🧩 **Browser Extensions & Web Scraping**: Developer of Chromium Manifest V3 extensions and automated DOM/network scrapers for cookie extraction, session debugging, and community link harvesting.
-- 🌐 **Modern Frontend & Web Applications**: Crafting responsive dashboards, media streaming platforms, and client-side AST rich-text engines using React, TypeScript, Vite, and Tailwind CSS.
+I am a passionate software engineer specializing in **high-performance Android clients**, **embedded media streaming engines**, **autonomous AI agent IDEs**, and **scalable real-time telemetry systems**. I build resilient open-source tools with focus on zero-assumption code quality, low-latency architectures, and sleek modern aesthetics.
 
 ---
 
-### 🛠 Tech Stack & Toolbox
+## 🌟 Featured Projects & Ecosystem
 
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-|---|---|
-| **Android & Native Systems** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Android_NDK-1E88E5?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/> |
-| **Web & Frontend Development** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> |
-| **Extensions & Automation** | <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/Manifest_V3-34A853?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/DOM_Automation-2496ED?style=for-the-badge&logo=electron&logoColor=white"/> |
-| **Tooling, Build & DevOps** | <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
-
-</div>
-
----
-
-### 🌟 Featured Projects & Open Source Work
+Here is a curated showcase of my active open-source projects:
 
 <table>
-  <!-- Row 1: Android Flagships (Direct Public APK Downloads) -->
+  <!-- Row 1: Mobile Clients & Media -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🍒 Cherrygram Plus</h3>
       <p align="center">
-        <b>Hardened, high-performance Telegram client for Android</b>
+        <b>Hardened, Privacy-Centric Telegram Client for Android</b>
       </p>
       <ul>
-        <li><b>Native Pipeline</b>: Modernized <code>AnimatedFileNative</code> JNI and RLottie single-channel ALPHA_8 decoders for low-overhead rendering.</li>
-        <li><b>Dynamic Memory Architecture</b>: Multi-tier <code>onTrimMemory</code> lifecycle handling, adaptive upload pipelining (12MB/8 Wi-Fi, 4MB/4 Cellular), and thread pool clamping.</li>
-        <li><b>Security & Parity</b>: Complete isolation of dangerous remote triggers, upstream feature parity, and 120Hz frame pacing.</li>
+        <li><b>Anti-Delete Albums:</b> Retains full bubble layouts for deleted messages, captions, and media albums.</li>
+        <li><b>Saved Messages Tags:</b> Persistent SQLite reaction tag storage in <code>messages_v2</code>.</li>
+        <li><b>Liquid Glass UI:</b> Dynamic shader blurs, iOS-style unread counter badge, and pixel-centered header capsules.</li>
+        <li><b>120Hz & Memory:</b> Optimized JNI RLottie decoders and multi-tier <code>onTrimMemory</code> lifecycle clamping.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v10.17.0-f43f5e?style=for-the-badge&logo=android&logoColor=white" /></a>
-        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases"><img src="https://img.shields.io/badge/Release_Hub-18181b?style=for-the-badge&logo=github" /></a>
+        <a href="https://github.com/Rohankapoor1904/cherrygram-plus"><img src="https://img.shields.io/badge/Source_Code-0284c7?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/cherrygram-plus-releases"><img src="https://img.shields.io/badge/Download_APKs-f43f5e?style=for-the-badge&logo=android&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎬 ADM Streamer</h3>
       <p align="center">
-        <b>Advanced Media Streaming & Background Download Manager for Android</b>
+        <b>Embedded BitTorrent & Multi-Debrid Streaming App</b>
       </p>
       <ul>
-        <li><b>Embedded Torrent Engine</b>: Local Node.js BitTorrent-to-HTTP server allowing zero-buffer real-time streaming.</li>
-        <li><b>Native VLC Core</b>: Universal codec decoding (MKV, HEVC, DASH, HLS) with multi-audio & subtitle selectors.</li>
-        <li><b>Catalog Discovery</b>: Unified Cinemeta catalog integration with resilient background download manager.</li>
+        <li><b>Embedded Node Mobile Gateway:</b> Zero-buffer BitTorrent-to-HTTP gateway running directly on the device.</li>
+        <li><b>Multi-Debrid Integration:</b> Real-Debrid, AllDebrid, and Premiumize cloud stream resolution.</li>
+        <li><b>VLC Player & Addons:</b> Native VLC player with hardware decoding and Stremio addon protocol support.</li>
+        <li><b>Android 15 Ready:</b> Custom patched 16KB memory page alignment.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904/streamer-releases/releases/latest"><img src="https://img.shields.io/badge/Download_APK-v1.0.0-6366f1?style=for-the-badge&logo=android&logoColor=white" /></a>
-        <a href="https://github.com/Rohankapoor1904/streamer-releases"><img src="https://img.shields.io/badge/Release_Hub-18181b?style=for-the-badge&logo=github" /></a>
+        <a href="https://github.com/Rohankapoor1904/streamer"><img src="https://img.shields.io/badge/Source_Code-6366f1?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/streamer-releases"><img src="https://img.shields.io/badge/Download_APKs-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 
-  <!-- Row 2: Web Applications & AST Engines -->
+  <!-- Row 2: AI Desktop & Bots -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📝 Telegram Rich Text Engine</h3>
+      <h3 align="center">⚡ Homies Tools (Agentic IDE)</h3>
       <p align="center">
-        <b>Client-Side Telegram Markdown & WYSIWYG Editor Suite</b>
+        <b>Autonomous Multi-Agent Desktop IDE & AI Workspace</b>
       </p>
       <ul>
-        <li><b>Exact MTProto Entities</b>: Zero-shift UTF-16 AST parsing matching Telegram Bot API 10.2 specifications.</li>
-        <li><b>Rich Formats</b>: Inline LaTeX formulas (<code>Σ $$ formula $$</code>), multi-level headings (H1–H6), visual table generators, and expandable quote pills.</li>
-        <li><b>Modern Stack</b>: React, TypeScript, and Vite with 1:1 line-by-line caret backdrop alignment.</li>
+        <li><b>Autonomous Loop:</b> State-machine loop for searching, reading, planning, patching, and verifying code.</li>
+        <li><b>Dual AI Engine:</b> Runs local privacy-first models (Ollama Qwen2.5-Coder) and cloud LLMs (Claude, GPT-4o).</li>
+        <li><b>Full Agent Tools:</b> Ripgrep search, unified diff staging, terminal execution, and SQLite persistent memory.</li>
+        <li><b>Modern Stack:</b> Electron 40, React 19, TypeScript, and Vite with 60 FPS zero-lag token rendering.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904"><img src="https://img.shields.io/badge/Web_Engine-0284c7?style=for-the-badge&logo=react" /></a>
+        <a href="https://github.com/Rohankapoor1904/Homies-Tool-"><img src="https://img.shields.io/badge/Homies_Tool-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/Editors"><img src="https://img.shields.io/badge/Editors_Repo-FF6F00?style=for-the-badge&logo=electron&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ TeraBox Suite & Dashboard</h3>
+      <h3 align="center">⚡ Official Bot Suite</h3>
+      <p align="center">
+        <b>Modular Telegram Automation Suite & FastAPI Web Dashboard</b>
+      </p>
+      <ul>
+        <li><b>Modular Bot Core:</b> Python 3.12+, python-telegram-bot v21, Pyrogram userbot, and Redis caching.</li>
+        <li><b>FastAPI Web Portal:</b> Live telemetry analytics, group moderation locks, and Cherrygram premium bridge.</li>
+        <li><b>TeraBox Gateway:</b> Direct stream resolution, media transcoding (FFmpeg), and cycle repeat engine.</li>
+        <li><b>Entity Preservation:</b> Telegram Premium custom emoji preservation across broadcasts.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Rohankapoor1904/Official-Bot"><img src="https://img.shields.io/badge/View_Repository-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3: Geospatial & Web Tools -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚍 MMU FleetRadar 3D</h3>
+      <p align="center">
+        <b>Real-Time 3D Geospatial Transit Tracking System</b>
+      </p>
+      <ul>
+        <li><b>3D Campus Models:</b> MapLibre GL JS volumetric extrusions of MMU Mullana & Sadopur campuses.</li>
+        <li><b>High-Frequency Telemetry:</b> 1-2 Hz WebSocket ingestion with 60 FPS lerp/slerp position smoothing.</li>
+        <li><b>Multi-Persona:</b> Student geofence alarms, driver offline queue console, and admin safety monitors.</li>
+        <li><b>Companion Mobile APK:</b> Bundled native Android APK package.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Rohankapoor1904/bus-Tracking-"><img src="https://img.shields.io/badge/View_System-E21E26?style=for-the-badge&logo=openstreetmap&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ TeraBox Suite & Web Portal</h3>
       <p align="center">
         <b>Cloud Video Streaming & Direct Download Portal</b>
       </p>
       <ul>
-        <li><b>Web Streaming & Player</b>: Responsive media streaming portal with direct video playback and file analytics.</li>
-        <li><b>Full Dashboard Interface</b>: Clean interactive UI with authentication pages (<code>dashboard.html</code>, <code>login.html</code>).</li>
-        <li><b>Live Deployment</b>: Hosted on GitHub Pages with continuous deployment.</li>
+        <li><b>Direct Video Streaming:</b> Browser-based playback and file inspection engine.</li>
+        <li><b>Modern Web UI:</b> Interactive dashboard interface with authentication views.</li>
+        <li><b>Live Deployment:</b> Deployed and running continuously via GitHub Pages.</li>
       </ul>
       <p align="center">
-        <a href="https://rohankapoor1904.github.io/terabox/"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-        <a href="https://github.com/Rohankapoor1904/terabox"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github" /></a>
+        <a href="https://rohankapoor1904.github.io/terabox/"><img src="https://img.shields.io/badge/Live_Portal-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/terabox"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 
-  <!-- Row 3: Browser Extensions & Scrapers -->
+  <!-- Row 4: Browser Extensions & Developer Portfolio -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 Website Details Fetcher</h3>
+      <h3 align="center">🧩 Web Scrapers & Harvesters</h3>
       <p align="center">
-        <b>Developer Chrome Extension for Cookie & Network Inspection</b>
+        <b>Manifest V3 Chrome Extensions & Link Extractors</b>
       </p>
       <ul>
-        <li><b>Manifest V3 Architecture</b>: Automated developer token, session storage, and cookie extraction tool built for Chromium browsers.</li>
-        <li><b>Security & Inspection</b>: Scrapes deep DOM values, inspects active tab state, and monitors web element variables.</li>
-        <li><b>Streamlined Workflow</b>: One-click extraction interface designed for web analysis and debugging.</li>
+        <li><b>Website Details Scraper:</b> Network inspection and cookie extraction extension.</li>
+        <li><b>Community Link Harvester:</b> Automated scanner for Telegram and Discord invite links.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904/website-scraper"><img src="https://img.shields.io/badge/View_Extension-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/website-scraper"><img src="https://img.shields.io/badge/Website_Scraper-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/telegram-discord-invitelink-extractor"><img src="https://img.shields.io/badge/Link_Extractor-6366f1?style=for-the-badge&logo=discord&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔗 Telegram & Discord Link Extractor</h3>
+      <h3 align="center">💼 Developer Portfolio</h3>
       <p align="center">
-        <b>Web Extension & Automated Community Link Harvester</b>
+        <b>Personal Web Portfolio & Project Showcase</b>
       </p>
       <ul>
-        <li><b>Smart Regex Parsing</b>: Scans, parses, and extracts valid Telegram (<code>t.me</code>) and Discord (<code>discord.gg</code>) invitation links.</li>
-        <li><b>Interactive Popup UI</b>: Clean popup dashboard with background worker scripts for rapid link harvesting.</li>
-        <li><b>Dynamic DOM Filtering</b>: Resolves obfuscated and dynamic anchor elements seamlessly.</li>
+        <li><b>Aesthetic Showcase:</b> Interactive personal developer portfolio.</li>
+        <li><b>Fast & Responsive:</b> Clean vanilla stack hosted on GitHub Pages.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Rohankapoor1904/telegram-discord-invitelink-extractor"><img src="https://img.shields.io/badge/View_Harvester-6366f1?style=for-the-badge&logo=discord&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 4: Personal Showcase -->
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🌐 Personal Developer Portfolio</h3>
-      <p><b>Personal Portfolio & Modern Web Showcase</b> • Built with HTML5, CSS3, and JavaScript • Hosted on GitHub Pages</p>
-      <p>
-        <a href="https://rohankapoor1904.github.io/portfolio/"><img src="https://img.shields.io/badge/Visit_Portfolio-e11d48?style=for-the-badge&logo=safari&logoColor=white" /></a>
-        <a href="https://github.com/Rohankapoor1904/portfolio"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github" /></a>
+        <a href="https://rohankapoor1904.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/Rohankapoor1904/portfolio"><img src="https://img.shields.io/badge/Source-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -171,7 +178,23 @@ Location: India 🇮🇳
 
 ---
 
-### 📊 GitHub Activity & Statistics
+## 🛠️ Technical Skills & Arsenal
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Mobile & Native** | Android SDK, Java, Kotlin, C++ (JNI / NDK), React Native, Expo SDK, Node.js Mobile, VLC Core |
+| **Frontend & Desktop** | React 19, TypeScript, Electron, Vite, TailwindCSS / NativeWind, MapLibre GL JS, Framer Motion |
+| **Backend & Cloud** | Python, Node.js, FastAPI, Express, REST APIs, WebSockets, PostGIS, SQLite, Redis |
+| **AI & Multi-Agent** | Autonomous Agent Loops, Ollama (Qwen2.5-Coder), Claude API, OpenAI API, RAG, Replicate |
+| **DevOps & Tools** | Git, GitHub Actions, Gradle, Docker, FFmpeg, Ripgrep, Linux, PowerShell |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -187,31 +210,30 @@ Location: India 🇮🇳
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
   <a href="https://t.me/tech_beast69" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@tech__beast69-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:viralzone1904@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-viralzone1904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://rohankapoor1904.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E11D48?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-E11D48?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Rohankapoor1904">
-    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Rohankapoor1904-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>
 
 <br/>
 
-<!-- Footer Decorative Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,34&height=100&section=footer" width="100%"/>
 </div>
